@@ -1,3 +1,6 @@
+# Escreva um programa que leia dois números inteiros e informe se ambos são
+# positivos.
+
 numero1 = int(input('Digite o primeiro numero: '))
 numero2 = int(input('Digite o segundo numero: '))
 

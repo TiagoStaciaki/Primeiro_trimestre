@@ -1,3 +1,6 @@
+# Escreva um programa que leia dois números inteiros e informe se pelo menos um
+# deles é par.
+
 numero1 = int(input('DIgite o primeiro numero: '))
 numero2 = int(input('DIgite o segundo numero: '))
 
